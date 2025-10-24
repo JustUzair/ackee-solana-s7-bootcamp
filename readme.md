@@ -20,10 +20,9 @@ Each entry links to a **public, standalone repo** with full commit history.
 
 ## Certificate
 
-- **IPFS:** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m  
-  <a href="https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m">
-  <img src="./assets/ackee-certificate.png" width="600" />
-  </a>
+- **IPFS:** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m
+
+  <img alt="Graduation Certificate" src="./assets/ackee-certificate.png" width="600" />
 
 ## Key Takeaways
 
