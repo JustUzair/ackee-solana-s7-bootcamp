@@ -16,13 +16,14 @@ Each entry links to a **public, standalone repo** with full commit history.
 
 ## On-chain proof (Graduation NFT)
 
-- **Solscan tx:** https://solscan.io/tx/5Qd3tXZGAdWKEcf3pb1YnRmC8CNEDhET6WWjkuLa7d1V1bRMp8M4trDtsGxMEudT5FGuUMP3cfYr9ujFPXPtoHd8
+- **Solscan:** https://solscan.io/tx/5Qd3tXZGAdWKEcf3pb1YnRmC8CNEDhET6WWjkuLa7d1V1bRMp8M4trDtsGxMEudT5FGuUMP3cfYr9ujFPXPtoHd8
 
 ## Certificate
 
-- **IPFS (Pinata):** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m
-  ![Graduation Certificate](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
-  <img src="https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m" width="60%" />
+- **IPFS:** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m  
+  <a href="https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m">
+  <img src="./assets/ackee-certificate.png" width="600" />
+  </a>
 
 ## Key Takeaways
 
