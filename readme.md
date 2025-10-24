@@ -22,7 +22,9 @@ Each entry links to a **public, standalone repo** with full commit history.
 - **IPFS (Pinata):** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m
 
 <div style="width:60%;">
+
 ![](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
+
 </div>
 
 ## Key Takeaways
