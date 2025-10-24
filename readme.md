@@ -12,6 +12,7 @@ Each entry links to a **public, standalone repo** with full commit history.
 - **Task 4:** https://github.com/JustUzair/solana-s7-task4
 - **Task 5:** https://github.com/JustUzair/solana-s7-task5
 - **Program (Anchor/Rust):** https://github.com/JustUzair/solana-s7-program
+  - Deployed at https://pfyt.vercel.app/
 
 ## On-chain proof (Graduation NFT)
 
