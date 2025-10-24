@@ -1,0 +1,33 @@
+[submodule "repos/solana-s7-task1"]
+	path = repos/solana-s7-task1
+	url = https://github.com/JustUzair/solana-s7-task1
+[submodule "repos/solana-s7-task2"]
+	path = repos/solana-s7-task2
+	url = https://github.com/JustUzair/solana-s7-task2
+[submodule "repos/solana-s7-task3"]
+	path = repos/solana-s7-task3
+	url = https://github.com/JustUzair/solana-s7-task3
+[submodule "repos/solana-s7-task4"]
+	path = repos/solana-s7-task4
+	url = https://github.com/JustUzair/solana-s7-task4
+[submodule "repos/solana-s7-task5"]
+	path = repos/solana-s7-task5
+	url = https://github.com/JustUzair/solana-s7-task5
+[submodule "solana-s7-task1"]
+	path = solana-s7-task1
+	url = https://github.com/JustUzair/solana-s7-task1
+[submodule "solana-s7-task2"]
+	path = solana-s7-task2
+	url = https://github.com/JustUzair/solana-s7-task2
+[submodule "solana-s7-task3"]
+	path = solana-s7-task3
+	url = https://github.com/JustUzair/solana-s7-task3
+[submodule "solana-s7-task4"]
+	path = solana-s7-task4
+	url = https://github.com/JustUzair/solana-s7-task4
+[submodule "solana-s7-task5"]
+	path = solana-s7-task5
+	url = https://github.com/JustUzair/solana-s7-task5
+[submodule "solana-s7-program"]
+	path = solana-s7-program
+	url = https://github.com/JustUzair/solana-s7-program
