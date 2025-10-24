@@ -11,7 +11,7 @@ Each entry links to a **public, standalone repo** with full commit history.
 - **Task 3:** https://github.com/JustUzair/solana-s7-task3
 - **Task 4:** https://github.com/JustUzair/solana-s7-task4
 - **Task 5:** https://github.com/JustUzair/solana-s7-task5
-- **Program (Anchor/Rust):** https://github.com/JustUzair/solana-s7-program
+- **Program (Anchor/Rust/NextJS/TypeScript):** https://github.com/JustUzair/solana-s7-program
   - Deployed at https://pfyt.vercel.app/
 
 ## On-chain proof (Graduation NFT)
@@ -21,12 +21,7 @@ Each entry links to a **public, standalone repo** with full commit history.
 ## Certificate
 
 - **IPFS (Pinata):** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m
-
-<div style="width:60%;">
-
-![](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
-
-</div>
+  ![](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
 
 ## Key Takeaways
 
