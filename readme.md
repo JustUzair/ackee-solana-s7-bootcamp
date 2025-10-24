@@ -21,7 +21,8 @@ Each entry links to a **public, standalone repo** with full commit history.
 ## Certificate
 
 - **IPFS (Pinata):** https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m
-  ![](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
+  ![Graduation Certificate](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m)
+  <img src="https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m" width="60%" />
 
 ## Key Takeaways
 
